@@ -42,7 +42,9 @@ You will notice I used array lists to store the strings almost all through my pr
 **Assumptions**
 
 In addition to the assumption that data will not exceed 2147483647, I also assumed that the format of the date will always be yyyy-mm-dd and that each value is calculated to up to 2 decimal places without rounding 
-Shortcuts
+
+**Shortcuts**
+
  I utilized the https://resttest.bench.co/transactions/all.json instead of looping through the pages as all the transactions were already displayed on this page 
 
 **Trade-offs**
