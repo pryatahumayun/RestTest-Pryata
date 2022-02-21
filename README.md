@@ -1,7 +1,7 @@
 # RestTest-Pryata
  This is the Rest Test in Java, this code grabs data from an endpoint and returns the running balance of the transactions per day 
  
-#**Required**
+**Required**
 
 Java 11 or above
 
