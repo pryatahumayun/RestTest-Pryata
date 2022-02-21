@@ -50,8 +50,6 @@ In addition to the assumption that data will not exceed 2147483647, I also assum
 **Trade-offs**
 
 Due to the assumption of using the endpoint with all the pages it is required we utilize that page only because then the running balance will calculate it with the values per page without considering all the other page values 
-stretch goals for this application
-instead of being a console application I can move it to a platform that can post 
 
 **what would I do different**
 
