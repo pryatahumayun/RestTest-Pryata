@@ -55,4 +55,4 @@ Due to the assumption of using the endpoint with all the pages it is required we
 
 I would loop through every page get the values store them then start the program in this case if the RESTAPI cannot put all its data in one page like they currently have it can still run through the program going page to page 
 
-I actually did try it differently https://github.com/pryatahumayun/RestTestPryata2.0
+I actually did try it in a different way, because I was not happy that I didnt get the pages to loop, and while I was debguging a program at work on Monday I saw a program that was using the Java 8's Collectors, and it dawned on me that I did not need to make so many functions. So here are my updates https://github.com/pryatahumayun/RestTestPryata2.0 
