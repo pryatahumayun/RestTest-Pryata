@@ -54,3 +54,5 @@ Due to the assumption of using the endpoint with all the pages it is required we
 **what would I do different**
 
 I would loop through every page get the values store them then start the program in this case if the RESTAPI cannot put all its data in one page like they currently have it can still run through the program going page to page 
+
+I actually did try it differently https://github.com/pryatahumayun/RestTestPryata2.0
